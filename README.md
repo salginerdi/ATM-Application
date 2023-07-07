@@ -1,2 +1,2 @@
-# JS-ile-ATM-Uygulamasi-Switch-Case-
-JavaScript (Switch &amp; Case) kullanarak ATM uygulaması oluşturmak.
+# ATM Application with switch-case structure
+I made an ATM application using only JavaScript switch-case structure.
